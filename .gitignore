@@ -11,6 +11,10 @@ export_presets.cfg
 .mono/
 data_*/
 
+##############################################
+#                   VS Code                  #
+##############################################
+gd-project/.vscode/settings.json
 
 # Created by https://www.gitignore.io/api/linux,windows
 
